@@ -1,0 +1,21 @@
+TITLE = Book my Tickets
+Navigation 
+•	Home
+•	About us
+•	Upcoming movie
+•	Search bar
+•	Profile
+•	Your city
+Home page
+•	Photo tranisiton effect (movie poster)
+•	Movie box
+Movie box
+•	Movie details
+•	Imdb rating
+•	Trailer
+Particular movie
+•	Book tickets box
+•	Language of movie
+•	2d ,3d show with time
+•	Recliner, gold ,silver ticket with price
+
